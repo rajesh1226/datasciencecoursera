@@ -1,2 +1,2 @@
 # datasciencecoursera
-data scientist's  toolkit assignment
+data scientist's   toolkit assignment
